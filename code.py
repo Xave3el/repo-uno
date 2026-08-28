@@ -1,4 +1,4 @@
-nombre = "oswa"
+nombre = "soy"
 apellido = "hernandez"
 
 saludo = "hola" + nombre + " " + apellido + "como estasss"
